@@ -8,7 +8,7 @@
 
 <img src="./build/assets/logo.svg" style="width: 150">
 
-<h2 align="center">Home Smart - Smart Home Solutions</h2>
+<h2 align="center">Home Smart Solutions</h2>
 Discover smart home solutions for a more convenient and efficient lifestyle with HomeSmart. Explore our products and services today. Made this projects using Tailwind CSS.
 
 <a href="https://home-smart-website.onrender.com/"><strong>➥ Live Demo</strong></a>
