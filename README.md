@@ -34,13 +34,13 @@ To run **Home Smart**, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Pranav-Jadhav09/home-smart.git
+sudo git clone https://github.com/Pranav-Jadhav09/Home-Smart.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Pranav-Jadhav09/home-smart.git
+git clone https://github.com/Pranav-Jadhav09/Home-Smart.git
 ```
 
 ## License
