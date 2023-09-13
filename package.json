@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "scripts": {
+    "build": "npx tailwindcss -i src/input.css -o build/css/style.css --watch",
+    "prettier": "npx prettier --write ./build/index.html"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.6",
+    "prettier-plugin-tailwindcss": "^0.5.4"
+  }
+}
