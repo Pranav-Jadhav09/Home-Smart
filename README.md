@@ -1,6 +1,6 @@
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Pranav-Jadhav09/Acme-Rockets)
+![GitHub repo size](https://img.shields.io/github/repo-size/Pranav-Jadhav09/Home-Smart)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pranav_Jadhav09?style=social)](https://twitter.com/Pranav_Jadhav09)
 
 <br />
@@ -34,13 +34,13 @@ To run **Home Smart**, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Pranav-Jadhav09/hoe-sart-website.git
+sudo git clone https://github.com/Pranav-Jadhav09/home-smart.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Pranav-Jadhav09/acme-rockets-website.git
+git clone https://github.com/Pranav-Jadhav09/home-smart.git
 ```
 
 ## License
