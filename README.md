@@ -19,7 +19,7 @@ Discover smart home solutions for a more convenient and efficient lifestyle with
 
 ## Demo
 
-![Demo Screen](https://cdn3.f-cdn.com//files/download/200826275/dark%20rocket.png?width=780&height=382&fit=crop "Desktop Demo")
+![Demo Screen](https://cdn3.f-cdn.com/files/download/204560368/2023-07-31%20%282%29.png?fit=crop&height=285&image-optimizer=force&format=webply&width=456%201x,%20https://cdn3.f-cdn.com/files/download/204560368/2023-07-31%20%282%29.png?fit=crop&height=285&image-optimizer=force&format=webply&width=760%202x "Desktop Demo")
 
 ## Prerequisites
 
